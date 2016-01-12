@@ -1,6 +1,6 @@
 ﻿using System.Runtime.CompilerServices;
 
-namespace DesignPatterns
+namespace DesignPatterns.Codes.Singleton
 {
     /// <summary>
     /// 经典的单例模式实现
